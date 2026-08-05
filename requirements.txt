@@ -11,7 +11,7 @@ optuna==3.6.1
 shap==0.46.0
 
 # --- Visualization (EDA / notebooks) ---
-matplotlib==3.9.1
+##matplotlib==3.9.1
 seaborn==0.13.2
 
 # --- Notebook environment ---
